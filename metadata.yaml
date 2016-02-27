@@ -1,0 +1,35 @@
+_repo: The-Legends-of-the-Jews-Volume-2_1494
+contributor:
+  translator:
+    agent_name: Szold, Henrietta
+    birthdate: 1860
+    deathdate: 1945
+    gutenberg_agent_id: '26637'
+    url: http://www.gutenberg.org/2009/agents/26637
+    wikipedia: http://en.wikipedia.org/wiki/Henrietta_Szold
+creator:
+  author:
+    agent_name: Ginzberg, Louis
+    birthdate: 1873
+    deathdate: 1953
+    gutenberg_agent_id: '651'
+    url: http://www.gutenberg.org/2009/agents/651
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Ginzberg
+description: 'Volume 2: From Joseph to the exodus'
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '1998-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aggada -- Translations into English'
+- !lcsh 'Bible. Old Testament -- Legends'
+- !lcsh 'Jewish legends'
+- !lcc 'BM'
+- !lcsh 'Midrash -- Translations into English'
+title: The Legends of the Jews — Volume 2
+url: http://www.gutenberg.org/ebooks/1494
