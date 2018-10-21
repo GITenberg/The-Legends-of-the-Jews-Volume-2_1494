@@ -1,5 +1,5 @@
 _repo: The-Legends-of-the-Jews-Volume-2_1494
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Szold, Henrietta
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'Jewish legends'
 - !lcc 'BM'
 - !lcsh 'Midrash -- Translations into English'
+- GITenberg
 title: The Legends of the Jews — Volume 2
 url: http://www.gutenberg.org/ebooks/1494
